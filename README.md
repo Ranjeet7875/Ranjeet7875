@@ -49,7 +49,7 @@ Passionate **Full Stack Developer** with a robust foundation in web development,
 ![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Add-Your-LinkedIn-Profile-Link](https://www.linkedin.com/in/ranjeet-vishwakarma-17v/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ranjeet-vishwakarma-17v/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvishwakarma122@gmail.com)
 
 ## 💡 Fun Fact
