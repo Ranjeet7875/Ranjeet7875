@@ -1,80 +1,53 @@
-# Hi there, I'm Ranjeet Vishwakarma! 👋
+# Ranjeet Vishwakarma | Full Stack Developer 🚀
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong foundation in web development and a keen interest in building scalable, user-friendly applications. 
+## 👨‍💻 Professional Summary
+Passionate Full Stack Developer with a robust foundation in web development, specializing in creating scalable and user-friendly web applications. Proficient in modern web technologies and committed to continuous learning and innovation.
 
----
-
-## 🌟 About Me
-
-- 💻 **Skills**: HTML, CSS, JavaScript, React, MySQL, MongoDB, Bootstrap.
-- 🔧 **Currently Learning**: Full-Stack Web Development and exploring advanced frameworks.
-- 🚀 **Projects**: Focused on creating impactful and innovative web applications.
-- 🌱 **Goal**: To acquire future-proof skills and secure opportunities in the tech industry.
-- 📚 **Interests**: Coding, problem-solving, and contributing to open-source projects.
-
----
-
-## 🔗 My Projects
-
-Here are some of my recent projects:
-
-- **Nyka Clone**: A frontend clone of the Nyka website.
-  - **Live Demo**: [https://cyberspacecrusders011.netlify.app/](https://cyberspacecrusders011.netlify.app/)
-
-- **Reebok Clone**: A frontend clone of the Reebok website.
-  - **Live Demo**: [https://reebokclones.netlify.app/](https://reebokclones.netlify.app/)
-
----
-
-## 🚀 My Tech Stack
-
+## 🔧 Technical Skills
 ### Frontend
-- HTML5, CSS3
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
-- Node.js
-- MySQL, MongoDB
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
-- Git, GitHub
-- VS Code, Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 1. Nyka Clone
+- **Description**: Comprehensive frontend clone of the Nyka website
+- **Technologies**: React, HTML, CSS, JavaScript
+- **Live Demo**: [Nyka Clone](https://cyberspacecrusders011.netlify.app/)
+
+### 2. Reebok Clone
+- **Description**: Detailed frontend replica of the Reebok website
+- **Technologies**: React, Bootstrap, JavaScript
+- **Live Demo**: [Reebok Clone](https://reebokclones.netlify.app/)
+
+## 🚀 Current Focus
+- Advancing Full-Stack Web Development skills
+- Exploring cutting-edge frameworks and technologies
+- Building scalable and innovative web applications
+
+## 📈 GitHub Stats
+![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Add-Your-LinkedIn-Profile-Link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvishwakarma@gmail.com)
+
+## 💡 Fun Fact
+When I'm not coding, I'm exploring new technologies, brainstorming innovative ideas, and watching tech talks to stay ahead of the curve.
 
 ---
-
-## 💻 Skills Showcase
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-
----
-
-## 🖥️ Animation: Working on Laptop
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on Laptop" width="600"/>
-</div>
-
----
-
-## 📫 Get in Touch
-
-- **Email**: [ranvishwakarma@gmail.com](mailto:ranvishwakarma@gmail.com)
-- **Phone**: +91 9923384993
-- **LinkedIn**: [Connect with me](#) *(Add your LinkedIn profile link)*
-- **Portfolio**: *(Coming soon!)*
-
----
-
-## 🌟 Fun Fact
-When I'm not coding, you can find me exploring new technologies, brainstorming ideas, or watching tech talks to stay ahead in the field.
-
----
-
-Thank you for visiting my profile! Feel free to reach out or explore my repositories. Let's connect and create something amazing together! 🚀
+**Seeking opportunities to leverage my skills and contribute to impactful projects. Let's build something amazing together! 🌐**
