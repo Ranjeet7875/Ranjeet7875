@@ -1,7 +1,7 @@
 # Ranjeet Vishwakarma | Full Stack Developer 🚀
 
 ## 👨‍💻 Professional Summary
-Passionate Full Stack Developer with a robust foundation in web development, specializing in creating scalable and user-friendly web applications. Proficient in modern web technologies and committed to continuous learning and innovation.
+## Passionate Full Stack Developer with a robust foundation in web development, specializing in creating scalable and user-friendly web applications. Proficient in modern web technologies and committed to continuous learning and innovation.
 
 🖥️ Coding in Action
 <div align="center">
