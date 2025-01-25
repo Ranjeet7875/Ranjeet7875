@@ -5,7 +5,7 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 
 🖥️ Coding in Action
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="800" height="400"/>
 </div>
 
 
