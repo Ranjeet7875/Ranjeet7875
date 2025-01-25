@@ -26,12 +26,12 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 
 ### 1. Nyka Clone
 - **Description**: Comprehensive frontend clone of the Nyka website
-- **Technologies**: React, HTML, CSS, JavaScript
+- **Technologies**: FireBase, HTML, CSS, JavaScript
 - **Live Demo**: [Nyka Clone](https://cyberspacecrusders011.netlify.app/)
 
 ### 2. Reebok Clone
 - **Description**: Detailed frontend replica of the Reebok website
-- **Technologies**: React, Bootstrap, JavaScript
+- **Technologies**: Html,Css Bootstrap, JavaScript,FireBase
 - **Live Demo**: [Reebok Clone](https://reebokclones.netlify.app/)
 
 ## 🚀 Current Focus
