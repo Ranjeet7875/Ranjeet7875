@@ -1,7 +1,7 @@
 # Ranjeet Vishwakarma | Full Stack Developer 🚀
 
 ## 👨‍💻 Professional Summary
-Passionate -**Full Stack Developer** - with a robust foundation in web development, specializing in creating scalable and user-friendly web applications. Proficient in modern web technologies and committed to continuous learning and innovation.
+Passionate **Full Stack Developer** with a robust foundation in web development, specializing in creating scalable and user-friendly web applications. Proficient in modern web technologies and committed to continuous learning and innovation.
 
 ## 🖥️ Coding in Action
 <div align="center">
@@ -49,8 +49,8 @@ Passionate -**Full Stack Developer** - with a robust foundation in web developme
 ![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Add-Your-LinkedIn-Profile-Link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvishwakarma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Add-Your-LinkedIn-Profile-Link](https://www.linkedin.com/in/ranjeet-vishwakarma-17v/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvishwakarma122@gmail.com)
 
 ## 💡 Fun Fact
 When I'm not coding, I'm exploring new technologies, brainstorming innovative ideas, and watching tech talks to stay ahead of the curve.
