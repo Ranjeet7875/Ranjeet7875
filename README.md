@@ -45,13 +45,7 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 - Exploring cutting-edge frameworks and technologies
 - Building scalable and innovative web applications
 
-## 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ranjeet&show_icons=true&theme=tokyonight)](https://github.com/Ranjeet)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ranjeet&theme=tokyonight)](https://github.com/Ranjeet)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ranjeet&layout=compact&theme=tokyonight)](https://github.com/Ranjeet)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ranjeet&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
 
