@@ -44,12 +44,6 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 - Advancing Full-Stack Web Development skills
 - Exploring cutting-edge frameworks and technologies
 - Building scalable and innovative web applications
-## 📈 GitHub Stats
-
-![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjeet&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Ranjeet&show_icons=true&theme=radical&hide=issues,contribs&show=stars,commits)
-
 
 
 
