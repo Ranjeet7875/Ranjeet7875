@@ -51,9 +51,7 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=Ranjeet&show_icons=true&theme=radical&hide=issues,contribs&show=stars,commits)
 
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ranjeet-vishwakarma-17v/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranvishwakarma122@gmail.com)
+
 
 ## 💡 Fun Fact
 When I'm not coding, I'm exploring new technologies, brainstorming innovative ideas, and watching tech talks to stay ahead of the curve.
