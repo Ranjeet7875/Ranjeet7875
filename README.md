@@ -46,7 +46,8 @@ Passionate Full Stack Developer with a robust foundation in web development, spe
 - Building scalable and innovative web applications
 
 ## 📈 GitHub Stats
-![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjeet&show_icons=true&theme=radical)
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ranjeet-vishwakarma-17v/))
